@@ -1,0 +1,5 @@
+===== BUDGET REPORT =====
+
+Total Income : 55000.0
+Total Expense : 950.0
+Balance : 54050.0
